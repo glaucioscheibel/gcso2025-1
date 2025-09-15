@@ -1,3 +1,5 @@
 Arquivo3 criado inicialmente
 Primeira linha adicionada
 Segunda linha adicionada
+Terceira linha adicionada na branch2
+Quarta linha adicionada na branch2
