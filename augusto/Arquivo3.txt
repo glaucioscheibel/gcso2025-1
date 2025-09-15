@@ -1,2 +1,4 @@
 linha 1 do Arquivo3
 linha 2 do Arquivo3
+linha 3 do Arquivo3
+linha 4 do Arquivo3
