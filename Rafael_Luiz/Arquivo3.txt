@@ -1,2 +1,4 @@
 linha de texto numero 1
 linha de texto numero 2
+linha de texto numero 3
+linha de texto numero 4
