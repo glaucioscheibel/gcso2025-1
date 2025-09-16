@@ -1,0 +1,5 @@
+"" 
+"Linha 1 do arquivo 3" 
+"Linha 2 do arquivo 3" 
+"Mais uma linha no arquivo 3" 
+"Outra linha no arquivo 3" 
