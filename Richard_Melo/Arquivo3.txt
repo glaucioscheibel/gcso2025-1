@@ -1,2 +1,4 @@
 1 linha de texto
 2 linhas de texto
+3 linhas de texto
+4 linhas de texto
